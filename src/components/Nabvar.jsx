@@ -2,9 +2,8 @@ import React from 'react'
 import { Navbar, Nav } from 'react-bootstrap';
 import { Link } from "react-router-dom";
 
-
-
 const Nabvar = () => {
+
     return (
         <>
         <Navbar collapseOnSelect expand="lg" bg="secondary" >
